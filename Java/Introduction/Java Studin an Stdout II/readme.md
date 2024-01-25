@@ -1,12 +1,14 @@
-# Descripción del Programa
+# Actividad Java Stdin and Stdout II
 
-Este programa Java utiliza la clase `Scanner` para leer un entero, un doble y una cadena de texto desde la entrada estándar. Luego, imprime esos valores en un orden específico.
+## Descripción del Programa
 
-## Estructura del Código
+Este programa Java utiliza la clase `Scanner` para leer un entero, un doble y una cadena de texto desde una entrada estándar.Despues de esto imprime los valores en un orden específico.
 
-El código fuente (`Solution.java`) se compone de las siguientes secciones:
+### Estructura del Código
 
-1. **Importaciones**: Importación de las clases necesarias.
+El código fuente (`Java Stdin and Stdout II.java`) se compone de las siguientes secciones:
+
+1. **Importaciones**: Importación de las clases necesarias (`Scanner`).
 
 2. **Método `main`**: Punto de entrada del programa.
 
